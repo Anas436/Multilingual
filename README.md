@@ -1,5 +1,7 @@
 # ICPR 2024 Competition on Claim Span Identification
 
+![](https://github.com/Anas436/Multilingual-Texts-Classification-AI/blob/main/Final%20Submission/Results.png)
+
 ## Disclaimer
 - The dataset may contain data that, if viewed directly, might be offensive, insulting, threatening, or might otherwise cause anxiety
 - The dataset may identify individuals (i.e., one or more natural persons), either directly or indirectly
